@@ -3,7 +3,7 @@
 @section('title', 'Ponto Online')
 
 @section('content2')
-<h3 style=" margin-top: 29%; font-weight: unset;">Faça seu Login ou Crie uma conta</h3>
+<h3 style=" margin-top: 29%; font-weight: lighter;">Faça seu Login ou Crie uma conta</h3>
 <a href="/cadastro"><button type="button" style="margin-top: 10%;width: 43%;" class="btn btn-outline-dark" id="verIncristos">Criar Conta</button></a>
 @endsection('content2')
 
