@@ -1,0 +1,24 @@
+Login
+>Nome
+>email
+>senha
+
+-fazer autenticação
+
+Cadastro
+>Nome completo *obirgatório
+>email *obirgatório
+>senha *obirgatório
+
+-validar o email
+-validar senha de no mínimo 8 caracters
+-Criptografar senha
+-Primeira letra após o espaço será automaticamente maiúscula
+-validar email e enviar mensagem de confirmação
+
+Dashboard
+>Nome do usuário com "olá"
+>Menu lateral
+>Botão de sair
+>Botão de marcar ponto no centro da tela
+>Data e horário no centro da tela

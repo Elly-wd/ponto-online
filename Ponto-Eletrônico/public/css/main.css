@@ -1,0 +1,28 @@
+body{
+    background-color: cornsilk;
+
+}
+
+p, h2, h5{
+    margin-top: 3%;
+    color: #fff;
+    font-weight: lighter;
+}
+.container{
+    margin-top: 6%;
+    align-items: center;
+}
+
+.card{
+    border: 0.2, solid;
+    border-color: snow;
+    background-color: snow;
+    height: 35rem;
+    width: 33rem;
+    align-items: center;
+    border-radius: 23px;
+    margin-top: -2%;
+}
+.card-body{
+    width: 80%;
+}
